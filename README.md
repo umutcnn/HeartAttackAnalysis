@@ -1,5 +1,3 @@
-# HeartAttackAnalysis
-
 # Heart Attack Analysis
 
 This project involves the analysis of heart attack data to predict the likelihood of a heart attack based on various health parameters. The analysis is conducted using Python and various machine learning techniques to build and evaluate predictive models.
